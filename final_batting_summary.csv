@@ -1,0 +1,218 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/notout,matchId
+India Vs Windies,INDIA,1,Ishan Kishan  ,52,46,7,1,113.04,out,4622
+India Vs Windies,INDIA,2,Shubman Gill,7,16,1,0,43.75,out,4622
+India Vs Windies,INDIA,3,Suryakumar Yadav,19,25,3,1,76,out,4622
+India Vs Windies,INDIA,4,Hardik Pandya,5,7,0,0,71.42,out,4622
+India Vs Windies,INDIA,5,Ravindra Jadeja,16,21,1,0,76.19,not out,4622
+India Vs Windies,INDIA,6,Shardul Thakur,1,4,0,0,25,out,4622
+India Vs Windies,INDIA,7,Rohit Sharma ,12,19,2,0,63.15,not out,4622
+India Vs Windies,INDIA,1,Ishan Kishan  ,55,55,6,1,100,out,4623
+India Vs Windies,INDIA,2,Shubman Gill,34,49,5,0,69.38,out,4623
+India Vs Windies,INDIA,3,Sanju Samson,9,19,0,0,47.36,out,4623
+India Vs Windies,INDIA,4,Axar Patel,1,8,0,0,12.5,out,4623
+India Vs Windies,INDIA,5,Hardik Pandya ,7,14,0,0,50,out,4623
+India Vs Windies,INDIA,6,Suryakumar Yadav,24,25,3,0,96,out,4623
+India Vs Windies,INDIA,7,Ravindra Jadeja,10,21,0,0,47.61,out,4623
+India Vs Windies,INDIA,8,Shardul Thakur,16,22,2,0,72.72,out,4623
+India Vs Windies,INDIA,9,Kuldeep Yadav,8,23,1,0,34.78,not out,4623
+India Vs Windies,INDIA,10,Umran Malik,0,2,0,0,0,out,4623
+India Vs Windies,INDIA,11,Mukesh Kumar,6,7,1,0,85.71,out,4623
+India Vs Windies,INDIA,1,Ishan Kishan  ,77,64,8,3,120.31,out,4624
+India Vs Windies,INDIA,2,Shubman Gill,85,92,11,0,92.39,out,4624
+India Vs Windies,INDIA,3,Ruturaj Gaikwad,8,14,1,0,57.14,out,4624
+India Vs Windies,INDIA,4,Sanju Samson,51,41,2,4,124.39,out,4624
+India Vs Windies,INDIA,5,Hardik Pandya ,70,52,4,5,134.61,not out,4624
+India Vs Windies,INDIA,6,Suryakumar Yadav,35,30,2,2,116.66,out,4624
+India Vs Windies,INDIA,7,Ravindra Jadeja,8,7,0,0,114.28,not out,4624
+India Vs Australia,INDIA,1,Ishan Kishan,3,8,0,0,37.5,out,4538
+India Vs Australia,INDIA,2,Shubman Gill,20,31,3,0,64.51,out,4538
+India Vs Australia,INDIA,3,Virat Kohli,4,9,1,0,44.44,out,4538
+India Vs Australia,INDIA,4,Suryakumar Yadav,0,1,0,0,0,out,4538
+India Vs Australia,INDIA,5,KL Rahul  ,75,91,7,1,82.41,not out,4538
+India Vs Australia,INDIA,6,Hardik Pandya ,25,31,3,1,80.64,out,4538
+India Vs Australia,INDIA,7,Ravindra Jadeja,45,69,5,0,65.21,not out,4538
+India Vs Australia,INDIA,1,Rohit Sharma ,13,15,2,0,86.66,out,4541
+India Vs Australia,INDIA,2,Shubman Gill,0,2,0,0,0,out,4541
+India Vs Australia,INDIA,3,Virat Kohli,31,35,4,0,88.57,out,4541
+India Vs Australia,INDIA,4,Suryakumar Yadav,0,1,0,0,0,out,4541
+India Vs Australia,INDIA,5,KL Rahul  ,9,12,1,0,75,out,4541
+India Vs Australia,INDIA,6,Hardik Pandya,1,3,0,0,33.33,out,4541
+India Vs Australia,INDIA,7,Ravindra Jadeja,16,39,1,0,41.02,out,4541
+India Vs Australia,INDIA,8,Axar Patel,29,29,1,2,100,not out,4541
+India Vs Australia,INDIA,9,Kuldeep Yadav,4,17,0,0,23.52,out,4541
+India Vs Australia,INDIA,10,Mohammed Shami,0,1,0,0,0,out,4541
+India Vs Australia,INDIA,11,Mohammed Siraj,0,3,0,0,0,out,4541
+India Vs Australia,INDIA,1,Rohit Sharma ,30,17,2,2,176.47,out,4545
+India Vs Australia,INDIA,2,Shubman Gill,37,49,4,1,75.51,out,4545
+India Vs Australia,INDIA,3,Virat Kohli,54,72,2,1,75,out,4545
+India Vs Australia,INDIA,4,KL Rahul  ,32,50,2,1,64,out,4545
+India Vs Australia,INDIA,5,Axar Patel,2,4,0,0,50,out,4545
+India Vs Australia,INDIA,6,Hardik Pandya,40,40,3,1,100,out,4545
+India Vs Australia,INDIA,7,Suryakumar Yadav,0,1,0,0,0,out,4545
+India Vs Australia,INDIA,8,Ravindra Jadeja,18,33,1,0,54.54,out,4545
+India Vs Australia,INDIA,9,Kuldeep Yadav,6,15,0,0,40,out,4545
+India Vs Australia,INDIA,10,Mohammed Shami,14,10,1,1,140,out,4545
+India Vs Australia,INDIA,11,Mohammed Siraj,3,5,0,0,60,not out,4545
+India vs Sri Lanka,INDIA,1,Rohit Sharma ,83,67,9,3,123.88,out,4501
+India vs Sri Lanka,INDIA,2,Shubman Gill,70,60,11,0,116.66,out,4501
+India vs Sri Lanka,INDIA,3,Virat Kohli,113,87,12,1,129.88,out,4501
+India vs Sri Lanka,INDIA,4,Shreyas Iyer,28,24,3,1,116.66,out,4501
+India vs Sri Lanka,INDIA,5,KL Rahul  ,39,29,4,1,134.48,out,4501
+India vs Sri Lanka,INDIA,6,Hardik Pandya,14,12,0,1,116.66,out,4501
+India vs Sri Lanka,INDIA,7,Axar Patel,9,9,0,0,100,out,4501
+India vs Sri Lanka,INDIA,8,Mohammed Shami,4,4,0,0,100,not out,4501
+India vs Sri Lanka,INDIA,9,Mohammed Siraj,7,8,0,0,87.5,not out,4501
+India vs Sri Lanka,INDIA,1,Rohit Sharma ,17,21,2,1,80.95,out,4503
+India vs Sri Lanka,INDIA,2,Shubman Gill,21,12,5,0,175,out,4503
+India vs Sri Lanka,INDIA,3,Virat Kohli,4,9,1,0,44.44,out,4503
+India vs Sri Lanka,INDIA,4,Shreyas Iyer,28,33,5,0,84.84,out,4503
+India vs Sri Lanka,INDIA,5,KL Rahul  ,64,103,6,0,62.13,not out,4503
+India vs Sri Lanka,INDIA,6,Hardik Pandya,36,53,4,0,67.92,out,4503
+India vs Sri Lanka,INDIA,7,Axar Patel,21,21,1,1,100,out,4503
+India vs Sri Lanka,INDIA,8,Kuldeep Yadav,10,10,2,0,100,not out,4503
+India vs Sri Lanka,INDIA,1,Rohit Sharma ,42,49,2,3,85.71,out,4505
+India vs Sri Lanka,INDIA,2,Shubman Gill,116,97,14,2,119.58,out,4505
+India vs Sri Lanka,INDIA,3,Virat Kohli,166,110,13,8,150.9,not out,4505
+India vs Sri Lanka,INDIA,4,Shreyas Iyer,38,32,2,1,118.75,out,4505
+India vs Sri Lanka,INDIA,5,KL Rahul  ,7,6,1,0,116.66,out,4505
+India vs Sri Lanka,INDIA,6,Suryakumar Yadav,4,4,0,0,100,out,4505
+India vs Sri Lanka,INDIA,7,Axar Patel,2,2,0,0,100,not out,4505
+India Vs New Zealand,INDIA,1,Rohit Sharma ,34,38,4,2,89.47,out,4507
+India Vs New Zealand,INDIA,2,Shubman Gill,208,149,19,9,139.59,out,4507
+India Vs New Zealand,INDIA,3,Virat Kohli,8,10,1,0,80,out,4507
+India Vs New Zealand,INDIA,4,Ishan Kishan  ,5,14,0,0,35.71,out,4507
+India Vs New Zealand,INDIA,5,Suryakumar Yadav,31,26,4,0,119.23,out,4507
+India Vs New Zealand,INDIA,6,Hardik Pandya,28,38,3,0,73.68,out,4507
+India Vs New Zealand,INDIA,7,Washington Sundar,12,14,0,0,85.71,out,4507
+India Vs New Zealand,INDIA,8,Shardul Thakur,3,3,0,0,100,out,4507
+India Vs New Zealand,INDIA,9,Kuldeep Yadav,5,6,0,0,83.33,not out,4507
+India Vs New Zealand,INDIA,10,Mohammed Shami,2,2,0,0,100,not out,4507
+India Vs New Zealand,INDIA,1,Rohit Sharma ,51,50,7,2,102,out,4509
+India Vs New Zealand,INDIA,2,Shubman Gill,40,53,6,0,75.47,not out,4509
+India Vs New Zealand,INDIA,3,Virat Kohli,11,9,2,0,122.22,out,4509
+India Vs New Zealand,INDIA,4,Ishan Kishan  ,8,9,2,0,88.88,not out,4509
+India Vs New Zealand,INDIA,1,Rohit Sharma ,101,85,9,6,118.82,out,4511
+India Vs New Zealand,INDIA,2,Shubman Gill,112,78,13,5,143.58,out,4511
+India Vs New Zealand,INDIA,3,Virat Kohli,36,27,3,1,133.33,out,4511
+India Vs New Zealand,INDIA,4,Ishan Kishan  ,17,24,1,1,70.83,out,4511
+India Vs New Zealand,INDIA,5,Suryakumar Yadav,14,9,0,2,155.55,out,4511
+India Vs New Zealand,INDIA,6,Hardik Pandya,54,38,3,3,142.1,out,4511
+India Vs New Zealand,INDIA,7,Washington Sundar,9,14,1,0,64.28,out,4511
+India Vs New Zealand,INDIA,8,Shardul Thakur,25,17,3,1,147.05,out,4511
+India Vs New Zealand,INDIA,9,Kuldeep Yadav,3,3,0,0,100,out,4511
+India Vs New Zealand,INDIA,10,Umran Malik,2,5,0,0,40,not out,4511
+India Vs Bangladesh,INDIA,1,Rohit Sharma ,27,31,4,1,87.09,out,4493
+India Vs Bangladesh,INDIA,2,Shikhar Dhawan,7,17,1,0,41.17,out,4493
+India Vs Bangladesh,INDIA,3,Virat Kohli,9,15,1,0,60,out,4493
+India Vs Bangladesh,INDIA,4,Shreyas Iyer,24,39,2,0,61.53,out,4493
+India Vs Bangladesh,INDIA,5,KL Rahul  ,73,70,5,4,104.28,out,4493
+India Vs Bangladesh,INDIA,6,Washington Sundar,19,43,0,0,44.18,out,4493
+India Vs Bangladesh,INDIA,7,Shahbaz Ahmed,0,4,0,0,0,out,4493
+India Vs Bangladesh,INDIA,8,Shardul Thakur,2,3,0,0,66.66,out,4493
+India Vs Bangladesh,INDIA,9,Deepak Chahar,0,3,0,0,0,out,4493
+India Vs Bangladesh,INDIA,10,Mohammed Siraj,9,20,1,0,45,out,4493
+India Vs Bangladesh,INDIA,11,Kuldeep Sen,2,4,0,0,50,not out,4493
+India Vs Bangladesh,INDIA,1,Virat Kohli,5,6,1,0,83.33,out,4496
+India Vs Bangladesh,INDIA,2,Shikhar Dhawan,8,10,1,0,80,out,4496
+India Vs Bangladesh,INDIA,3,Shreyas Iyer,82,102,6,3,80.39,out,4496
+India Vs Bangladesh,INDIA,4,Washington Sundar,11,19,1,0,57.89,out,4496
+India Vs Bangladesh,INDIA,5,KL Rahul  ,14,28,0,0,50,out,4496
+India Vs Bangladesh,INDIA,6,Axar Patel,56,56,2,3,100,out,4496
+India Vs Bangladesh,INDIA,7,Shardul Thakur,7,23,0,0,30.43,out,4496
+India Vs Bangladesh,INDIA,8,Deepak Chahar,11,18,0,1,61.11,out,4496
+India Vs Bangladesh,INDIA,9,Rohit Sharma ,51,28,3,5,182.14,not out,4496
+India Vs Bangladesh,INDIA,10,Mohammed Siraj,2,12,0,0,16.66,out,4496
+India Vs Bangladesh,INDIA,11,Umran Malik,0,0,0,0,-,not out,4496
+India Vs Bangladesh,INDIA,1,Shikhar Dhawan,3,8,0,0,37.5,out,4499
+India Vs Bangladesh,INDIA,2,Ishan Kishan,210,131,24,10,160.3,out,4499
+India Vs Bangladesh,INDIA,3,Virat Kohli,113,91,11,2,124.17,out,4499
+India Vs Bangladesh,INDIA,4,Shreyas Iyer,3,6,0,0,50,out,4499
+India Vs Bangladesh,INDIA,5,KL Rahul  ,8,10,1,0,80,out,4499
+India Vs Bangladesh,INDIA,6,Washington Sundar,37,27,4,1,137.03,out,4499
+India Vs Bangladesh,INDIA,7,Axar Patel,20,17,1,1,117.64,out,4499
+India Vs Bangladesh,INDIA,8,Shardul Thakur,3,5,0,0,60,out,4499
+India Vs Bangladesh,INDIA,9,Kuldeep Yadav,3,3,0,0,100,not out,4499
+India Vs Bangladesh,INDIA,10,Mohammed Siraj,0,2,0,0,0,not out,4499
+India Vs South Africa,INDIA,1,Shikhar Dhawan ,4,16,0,0,25,out,4470
+India Vs South Africa,INDIA,2,Shubman Gill,3,7,0,0,42.85,out,4470
+India Vs South Africa,INDIA,3,Ruturaj Gaikwad,19,42,1,0,45.23,out,4470
+India Vs South Africa,INDIA,4,Ishan Kishan,20,37,3,0,54.05,out,4470
+India Vs South Africa,INDIA,5,Shreyas Iyer,50,37,8,0,135.13,out,4470
+India Vs South Africa,INDIA,6,Sanju Samson  ,86,63,9,3,136.5,not out,4470
+India Vs South Africa,INDIA,7,Shardul Thakur,33,31,5,0,106.45,out,4470
+India Vs South Africa,INDIA,8,Kuldeep Yadav,0,1,0,0,0,out,4470
+India Vs South Africa,INDIA,9,Avesh Khan,3,6,0,0,50,out,4470
+India Vs South Africa,INDIA,10,Ravi Bishnoi,4,2,1,0,200,not out,4470
+India Vs South Africa,INDIA,1,Shikhar Dhawan ,13,20,0,1,65,out,4471
+India Vs South Africa,INDIA,2,Shubman Gill,28,26,5,0,107.69,out,4471
+India Vs South Africa,INDIA,3,Ishan Kishan,93,84,4,7,110.71,out,4471
+India Vs South Africa,INDIA,4,Shreyas Iyer,113,111,15,0,101.8,not out,4471
+India Vs South Africa,INDIA,5,Sanju Samson  ,30,36,1,1,83.33,not out,4471
+India Vs South Africa,INDIA,1,Shikhar Dhawan ,8,14,1,0,57.14,out,4472
+India Vs South Africa,INDIA,2,Shubman Gill,49,57,8,0,85.96,out,4472
+India Vs South Africa,INDIA,3,Ishan Kishan,10,18,2,0,55.55,out,4472
+India Vs South Africa,INDIA,4,Shreyas Iyer,28,23,3,2,121.73,not out,4472
+India Vs South Africa,INDIA,5,Sanju Samson  ,2,4,0,0,50,not out,4472
+India Vs South Africa,INDIA,1,Shikhar Dhawan,81,113,9,0,71.68,not out,4451
+India Vs South Africa,INDIA,2,Shubman Gill,82,72,10,1,113.88,not out,4451
+India Vs Zimbabwe,INDIA,1,Shikhar Dhawan,33,21,4,0,157.14,out,4454
+India Vs Zimbabwe,INDIA,2,KL Rahul ,1,5,0,0,20,out,4454
+India Vs Zimbabwe,INDIA,3,Shubman Gill,33,34,6,0,97.05,out,4454
+India Vs Zimbabwe,INDIA,4,Ishan Kishan,6,13,0,0,46.15,out,4454
+India Vs Zimbabwe,INDIA,5,Deepak Hooda,25,36,3,0,69.44,out,4454
+India Vs Zimbabwe,INDIA,6,Sanju Samson  ,43,39,3,4,110.25,not out,4454
+India Vs Zimbabwe,INDIA,7,Axar Patel,6,7,1,0,85.71,not out,4454
+India Vs Zimbabwe,INDIA,1,Shikhar Dhawan,40,68,5,0,58.82,out,4457
+India Vs Zimbabwe,INDIA,2,KL Rahul ,30,46,1,1,65.21,out,4457
+India Vs Zimbabwe,INDIA,3,Shubman Gill,130,97,15,1,134.02,out,4457
+India Vs Zimbabwe,INDIA,4,Ishan Kishan,50,61,6,0,81.96,out,4457
+India Vs Zimbabwe,INDIA,5,Deepak Hooda,1,3,0,0,33.33,out,4457
+India Vs Zimbabwe,INDIA,6,Sanju Samson  ,15,13,0,2,115.38,out,4457
+India Vs Zimbabwe,INDIA,7,Axar Patel,1,4,0,0,25,out,4457
+India Vs Zimbabwe,INDIA,8,Shardul Thakur,9,6,2,0,150,out,4457
+India Vs Zimbabwe,INDIA,9,Deepak Chahar,1,1,0,0,100,not out,4457
+India Vs Zimbabwe,INDIA,10,Kuldeep Yadav,2,2,0,0,100,not out,4457
+India Vs Windies,INDIA,1,Shikhar Dhawan ,97,99,10,3,97.97,out,4436
+India Vs Windies,INDIA,2,Shubman Gill,64,53,6,2,120.75,out,4436
+India Vs Windies,INDIA,3,Shreyas Iyer,54,57,5,2,94.73,out,4436
+India Vs Windies,INDIA,4,Suryakumar Yadav,13,14,2,0,92.85,out,4436
+India Vs Windies,INDIA,5,Sanju Samson  ,12,18,0,1,66.66,out,4436
+India Vs Windies,INDIA,6,Deepak Hooda,27,32,1,1,84.37,out,4436
+India Vs Windies,INDIA,7,Axar Patel,21,21,1,1,100,out,4436
+India Vs Windies,INDIA,8,Shardul Thakur,7,5,1,0,140,not out,4436
+India Vs Windies,INDIA,9,Mohammed Siraj,1,2,0,0,50,not out,4436
+India Vs Windies,INDIA,1,Shikhar Dhawan ,13,31,0,0,41.93,out,4438
+India Vs Windies,INDIA,2,Shubman Gill,43,49,5,0,87.75,out,4438
+India Vs Windies,INDIA,3,Shreyas Iyer,63,71,4,1,88.73,out,4438
+India Vs Windies,INDIA,4,Suryakumar Yadav,9,8,0,1,112.5,out,4438
+India Vs Windies,INDIA,5,Sanju Samson  ,54,51,3,3,105.88,out,4438
+India Vs Windies,INDIA,6,Deepak Hooda,33,36,2,0,91.66,out,4438
+India Vs Windies,INDIA,7,Axar Patel,64,35,3,5,182.85,not out,4438
+India Vs Windies,INDIA,8,Shardul Thakur,3,6,0,0,50,out,4438
+India Vs Windies,INDIA,9,Avesh Khan,10,12,2,0,83.33,out,4438
+India Vs Windies,INDIA,10,Mohammed Siraj,1,1,0,0,100,not out,4438
+India Vs Windies,INDIA,1,Shikhar Dhawan ,58,74,7,0,78.37,out,4439
+India Vs Windies,INDIA,2,Shubman Gill,98,98,7,2,100,not out,4439
+India Vs Windies,INDIA,3,Shreyas Iyer,44,34,4,1,129.41,out,4439
+India Vs Windies,INDIA,4,Suryakumar Yadav,8,6,1,0,133.33,out,4439
+India Vs Windies,INDIA,5,Sanju Samson  ,6,7,0,0,85.71,not out,4439
+India Vs Windies,INDIA,1,Rohit Sharma ,76,58,7,5,131.03,not out,4424
+India Vs England,INDIA,2,Shikhar Dhawan,31,54,4,0,57.4,not out,4424
+India Vs England,INDIA,1,Rohit Sharma ,0,10,0,0,0,out,4428
+India Vs England,INDIA,2,Shikhar Dhawan,9,26,1,0,34.61,out,4428
+India Vs England,INDIA,3,Virat Kohli,16,25,3,0,64,out,4428
+India Vs England,INDIA,4,Rishabh Pant  ,0,5,0,0,0,out,4428
+India Vs England,INDIA,5,Suryakumar Yadav,27,29,1,1,93.1,out,4428
+India Vs England,INDIA,6,Hardik Pandya,29,44,2,0,65.9,out,4428
+India Vs England,INDIA,7,Ravindra Jadeja,29,44,1,1,65.9,out,4428
+India Vs England,INDIA,8,Mohammed Shami,23,28,2,1,82.14,out,4428
+India Vs England,INDIA,9,Jasprit Bumrah,2,6,0,0,33.33,not out,4428
+India Vs England,INDIA,10,Yuzvendra Chahal,3,13,0,0,23.07,out,4428
+India Vs England,INDIA,11,Prasidh Krishna,0,3,0,0,0,out,4428
+India Vs England,INDIA,1,Rohit Sharma ,17,17,4,0,100,out,4433
+India Vs England,INDIA,2,Shikhar Dhawan,1,3,0,0,33.33,out,4433
+India Vs England,INDIA,3,Virat Kohli,17,22,3,0,77.27,out,4433
+India Vs England,INDIA,4,Rishabh Pant  ,125,113,16,2,110.61,not out,4433
+India Vs England,INDIA,5,Suryakumar Yadav,16,28,1,0,57.14,out,4433
+India Vs England,INDIA,6,Hardik Pandya,71,55,10,0,129.09,out,4433
+India Vs England,INDIA,7,Ravindra Jadeja,7,15,0,0,46.66,not out,4433
